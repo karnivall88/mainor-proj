@@ -1,0 +1,22 @@
+.parallax{
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('../assets/bg.jpeg');
+    /* background-image: url("../assets/bg.jpeg"); */
+    height: 400px; 
+
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-bottom{
+    background-image: url("../assets/bg.jpeg");
+    height: 100px; 
+
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
